@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yyampi123@gmail.com
+	name = Jean Pierre van Driel
